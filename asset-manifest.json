@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KittensHub/static/css/main.4eea4356.chunk.css",
+    "main.js": "/KittensHub/static/js/main.dbb1c9f3.chunk.js",
+    "main.js.map": "/KittensHub/static/js/main.dbb1c9f3.chunk.js.map",
+    "runtime-main.js": "/KittensHub/static/js/runtime-main.f6387ba4.js",
+    "runtime-main.js.map": "/KittensHub/static/js/runtime-main.f6387ba4.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/KittensHub/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.0b43544b.chunk.js": "/KittensHub/static/js/2.0b43544b.chunk.js",
+    "static/js/2.0b43544b.chunk.js.map": "/KittensHub/static/js/2.0b43544b.chunk.js.map",
+    "index.html": "/KittensHub/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/KittensHub/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.4eea4356.chunk.css.map": "/KittensHub/static/css/main.4eea4356.chunk.css.map",
+    "static/js/2.0b43544b.chunk.js.LICENSE.txt": "/KittensHub/static/js/2.0b43544b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6387ba4.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.0b43544b.chunk.js",
+    "static/css/main.4eea4356.chunk.css",
+    "static/js/main.dbb1c9f3.chunk.js"
+  ]
+}
